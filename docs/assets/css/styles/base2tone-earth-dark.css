@@ -1,0 +1,65 @@
+/* Base2Tone-Earth Dark */
+/* by Bram de Haan, adapted from DuoTone themes by Simurai (http://simurai.com/projects/2016/01/01/duotone-themes) */
+/* https://github.com/atelierbram/Base2Tone-highlight.js/ */
+
+/* Base2Tone-Earth Comment */
+.hljs-comment,
+.hljs-quote {
+  color: #6a5f58;
+}
+
+.hljs-variable,
+.hljs-template-variable,
+.hljs-attribute,
+.hljs-tag,
+.hljs-name,
+.hljs-regexp,
+.hljs-link,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class {
+  color: #fcc440;
+}
+
+.hljs-number,
+.hljs-meta,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params {
+  color: #bfa05a;
+}
+
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet {
+  color: #fcc440;
+}
+
+.hljs-title,
+.hljs-section {
+  color: #6f5849;
+}
+
+.hljs-keyword,
+.hljs-selector-tag {
+  color: #f2efe8;
+}
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  background: #322d29;
+  color: #88786d;
+  padding: 0.5em;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+

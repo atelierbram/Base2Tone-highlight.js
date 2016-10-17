@@ -1,0 +1,65 @@
+/* Base2Tone-Pool Dark */
+/* by Bram de Haan, adapted from DuoTone themes by Simurai (http://simurai.com/projects/2016/01/01/duotone-themes) */
+/* https://github.com/atelierbram/Base2Tone-highlight.js/ */
+
+/* Base2Tone-Pool Comment */
+.hljs-comment,
+.hljs-quote {
+  color: #635775;
+}
+
+.hljs-variable,
+.hljs-template-variable,
+.hljs-attribute,
+.hljs-tag,
+.hljs-name,
+.hljs-regexp,
+.hljs-link,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class {
+  color: #ffb6b3;
+}
+
+.hljs-number,
+.hljs-meta,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params {
+  color: #ed655e;
+}
+
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet {
+  color: #ffb6b3;
+}
+
+.hljs-title,
+.hljs-section {
+  color: #8f51e6;
+}
+
+.hljs-keyword,
+.hljs-selector-tag {
+  color: #fbf9f9;
+}
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  background: #2a2433;
+  color: #b886fd;
+  padding: 0.5em;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+

@@ -1,0 +1,65 @@
+/* Base2Tone-Heath Dark */
+/* by Bram de Haan, adapted from DuoTone themes by Simurai (http://simurai.com/projects/2016/01/01/duotone-themes) */
+/* https://github.com/atelierbram/Base2Tone-highlight.js/ */
+
+/* Base2Tone-Heath Comment */
+.hljs-comment,
+.hljs-quote {
+  color: #635f63;
+}
+
+.hljs-variable,
+.hljs-template-variable,
+.hljs-attribute,
+.hljs-tag,
+.hljs-name,
+.hljs-regexp,
+.hljs-link,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class {
+  color: #ffd599;
+}
+
+.hljs-number,
+.hljs-meta,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params {
+  color: #b87414;
+}
+
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet {
+  color: #ffd599;
+}
+
+.hljs-title,
+.hljs-section {
+  color: #a21fad;
+}
+
+.hljs-keyword,
+.hljs-selector-tag {
+  color: #fbfaf9;
+}
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  background: #222022;
+  color: #9a819c;
+  padding: 0.5em;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+

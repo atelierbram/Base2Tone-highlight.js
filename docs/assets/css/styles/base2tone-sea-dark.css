@@ -1,0 +1,65 @@
+/* Base2Tone-Sea Dark */
+/* by Bram de Haan, adapted from DuoTone themes by Simurai (http://simurai.com/projects/2016/01/01/duotone-themes) */
+/* https://github.com/atelierbram/Base2Tone-highlight.js/ */
+
+/* Base2Tone-Sea Comment */
+.hljs-comment,
+.hljs-quote {
+  color: #4a5f78;
+}
+
+.hljs-variable,
+.hljs-template-variable,
+.hljs-attribute,
+.hljs-tag,
+.hljs-name,
+.hljs-regexp,
+.hljs-link,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class {
+  color: #47ebb4;
+}
+
+.hljs-number,
+.hljs-meta,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params {
+  color: #0aa370;
+}
+
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet {
+  color: #47ebb4;
+}
+
+.hljs-title,
+.hljs-section {
+  color: #004a9e;
+}
+
+.hljs-keyword,
+.hljs-selector-tag {
+  color: #f9fbfa;
+}
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  background: #1d262f;
+  color: #57718e;
+  padding: 0.5em;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+

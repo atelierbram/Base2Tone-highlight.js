@@ -1,0 +1,65 @@
+/* Base2Tone-Desert Light */
+/* by Bram de Haan, adapted from DuoTone themes by Simurai (http://simurai.com/projects/2016/01/01/duotone-themes) */
+/* https://github.com/atelierbram./Base2Tone-highlight.js/ */
+
+/* Base2Tone-Desert Comment */
+.hljs-comment,
+.hljs-quote {
+  color: #cac3be;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-tag,
+.hljs-name,
+.hljs-regexp,
+.hljs-link,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class {
+  color: #bc672f;
+}
+
+.hljs-number,
+.hljs-meta,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params {
+  color: #5c523d;
+}
+
+.hljs-attribute,
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet {
+  color: #ec9255;
+}
+
+.hljs-variable,
+.hljs-template-variable {
+  color: #dd7c3c;
+}
+
+.hljs-title,
+.hljs-section {
+  color: #5c523d;
+}
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  background: #fbfaf9;
+  color: #d37231;
+  padding: 0.5em;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+

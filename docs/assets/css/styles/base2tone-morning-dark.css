@@ -1,0 +1,65 @@
+/* Base2Tone-Morning Dark */
+/* by Bram de Haan, adapted from DuoTone themes by Simurai (http://simurai.com/projects/2016/01/01/duotone-themes) */
+/* https://github.com/atelierbram/Base2Tone-highlight.js/ */
+
+/* Base2Tone-Morning Comment */
+.hljs-comment,
+.hljs-quote {
+  color: #656e81;
+}
+
+.hljs-variable,
+.hljs-template-variable,
+.hljs-attribute,
+.hljs-tag,
+.hljs-name,
+.hljs-regexp,
+.hljs-link,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class {
+  color: #e5ddcd;
+}
+
+.hljs-number,
+.hljs-meta,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params {
+  color: #896724;
+}
+
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet {
+  color: #e5ddcd;
+}
+
+.hljs-title,
+.hljs-section {
+  color: #063289;
+}
+
+.hljs-keyword,
+.hljs-selector-tag {
+  color: #faf8f5;
+}
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  background: #232834;
+  color: #3d75e6;
+  padding: 0.5em;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+

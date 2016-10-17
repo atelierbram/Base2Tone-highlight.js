@@ -1,0 +1,65 @@
+/* Base2Tone-Lake Light */
+/* by Bram de Haan, adapted from DuoTone themes by Simurai (http://simurai.com/projects/2016/01/01/duotone-themes) */
+/* https://github.com/atelierbram./Base2Tone-highlight.js/ */
+
+/* Base2Tone-Lake Comment */
+.hljs-comment,
+.hljs-quote {
+  color: #c2c1b7;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-tag,
+.hljs-name,
+.hljs-regexp,
+.hljs-link,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class {
+  color: #84740b;
+}
+
+.hljs-number,
+.hljs-meta,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params {
+  color: #2f7289;
+}
+
+.hljs-attribute,
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet {
+  color: #cbbb4d;
+}
+
+.hljs-variable,
+.hljs-template-variable {
+  color: #b7a21a;
+}
+
+.hljs-title,
+.hljs-section {
+  color: #2f7289;
+}
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  background: #fafaf9;
+  color: #978611;
+  padding: 0.5em;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+

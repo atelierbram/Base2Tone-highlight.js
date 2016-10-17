@@ -1,0 +1,65 @@
+/* Base2Tone-Evening Dark */
+/* by Bram de Haan, adapted from DuoTone themes by Simurai (http://simurai.com/projects/2016/01/01/duotone-themes) */
+/* https://github.com/atelierbram/Base2Tone-highlight.js/ */
+
+/* Base2Tone-Evening Comment */
+.hljs-comment,
+.hljs-quote {
+  color: #6c6783;
+}
+
+.hljs-variable,
+.hljs-template-variable,
+.hljs-attribute,
+.hljs-tag,
+.hljs-name,
+.hljs-regexp,
+.hljs-link,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class {
+  color: #ffcc99;
+}
+
+.hljs-number,
+.hljs-meta,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params {
+  color: #e09142;
+}
+
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet {
+  color: #ffcc99;
+}
+
+.hljs-title,
+.hljs-section {
+  color: #6a51e6;
+}
+
+.hljs-keyword,
+.hljs-selector-tag {
+  color: #fbfaf9;
+}
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  background: #2a2734;
+  color: #9a86fd;
+  padding: 0.5em;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+

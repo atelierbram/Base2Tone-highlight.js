@@ -1,0 +1,65 @@
+/* Base2Tone-Meadow Light */
+/* by Bram de Haan, adapted from DuoTone themes by Simurai (http://simurai.com/projects/2016/01/01/duotone-themes) */
+/* https://github.com/atelierbram./Base2Tone-highlight.js/ */
+
+/* Base2Tone-Meadow Comment */
+.hljs-comment,
+.hljs-quote {
+  color: #bdc3b7;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-tag,
+.hljs-name,
+.hljs-regexp,
+.hljs-link,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class {
+  color: #4d8217;
+}
+
+.hljs-number,
+.hljs-meta,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params {
+  color: #1b6498;
+}
+
+.hljs-attribute,
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet {
+  color: #80bf40;
+}
+
+.hljs-variable,
+.hljs-template-variable {
+  color: #66a329;
+}
+
+.hljs-title,
+.hljs-section {
+  color: #1b6498;
+}
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  background: #fafbf9;
+  color: #59931f;
+  padding: 0.5em;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+
