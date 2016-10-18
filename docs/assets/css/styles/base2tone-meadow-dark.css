@@ -17,7 +17,11 @@
 .hljs-link,
 .hljs-name,
 .hljs-selector-id,
-.hljs-selector-class {
+.hljs-selector-class,
+.hljs-selector-attr,
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet {
   color: #a6f655;
 }
 
@@ -31,12 +35,6 @@
   color: #66a329;
 }
 
-.hljs-string,
-.hljs-symbol,
-.hljs-bullet {
-  color: #a6f655;
-}
-
 .hljs-title,
 .hljs-section {
   color: #1b6498;
@@ -47,11 +45,15 @@
   color: #fafbf9;
 }
 
+.hljs-selector-pseudo {
+  color: #80bf40;
+}
+
 .hljs {
   display: block;
   overflow-x: auto;
   background: #192834;
-  color: #4299d7;
+  color: #3d5e76;
   padding: 0.5em;
 }
 

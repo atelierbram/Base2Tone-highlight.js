@@ -26,14 +26,18 @@
 .hljs-builtin-name,
 .hljs-literal,
 .hljs-type,
-.hljs-params {
+.hljs-params,
+.hljs-title,
+.hljs-section,
+.hljs-selector-attr {
   color: #5c523d;
 }
 
 .hljs-attribute,
 .hljs-string,
 .hljs-symbol,
-.hljs-bullet {
+.hljs-bullet,
+.hljs-selector-pseudo {
   color: #ec9255;
 }
 
@@ -42,16 +46,11 @@
   color: #dd7c3c;
 }
 
-.hljs-title,
-.hljs-section {
-  color: #5c523d;
-}
-
 .hljs {
   display: block;
   overflow-x: auto;
   background: #fbfaf9;
-  color: #d37231;
+  color: #cac3be;
   padding: 0.5em;
 }
 

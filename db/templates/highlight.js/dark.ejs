@@ -17,7 +17,11 @@
 .hljs-link,
 .hljs-name,
 .hljs-selector-id,
-.hljs-selector-class {
+.hljs-selector-class,
+.hljs-selector-attr,
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet {
   color: #<%- base["D7"]["hex"] %>;
 }
 
@@ -31,12 +35,6 @@
   color: #<%- base["D2"]["hex"] %>;
 }
 
-.hljs-string,
-.hljs-symbol,
-.hljs-bullet {
-  color: #<%- base["D7"]["hex"] %>;
-}
-
 .hljs-title,
 .hljs-section {
   color: #<%- base["B0"]["hex"] %>;
@@ -47,11 +45,15 @@
   color: #<%- base["C7"]["hex"] %>;
 }
 
+.hljs-selector-pseudo {
+  color: #<%- base["D4"]["hex"] %>;
+}
+
 .hljs {
   display: block;
   overflow-x: auto;
   background: #<%- base["A0"]["hex"] %>;
-  color: #<%- base["B3"]["hex"] %>;
+  color: #<%- base["A3"]["hex"] %>;
   padding: 0.5em;
 }
 
