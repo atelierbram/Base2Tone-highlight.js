@@ -92,6 +92,10 @@ pre > code.hljs {
   margin: 3em 0;
 }
 
+.github-corner:hover svg {
+  fill: #333 !important;
+}
+
 ::-webkit-scrollbar {
   width: .75em;
   height: .75em;
