@@ -1,11 +1,11 @@
-/* Base2Tone-Space Light */
-/* adapted from DuoTone themes by Simurai (http://simurai.com/projects/2016/01/01/duotone-themes) */
+/* <%- scheme %> Light */
+/* <%- author %> */
 /* https://github.com/atelierbram./Base2Tone-highlight.js/ */
 
-/* Base2Tone-Space Comment */
+/* <%- scheme %> Comment */
 .hljs-comment,
 .hljs-quote {
-  color: #c3bbb7;
+  color: #<%- base["C4"]["hex"] %>;
 }
 
 .hljs-keyword,
@@ -17,7 +17,7 @@
 .hljs-name,
 .hljs-selector-id,
 .hljs-selector-class {
-  color: #b25424;
+  color: #<%- base["D0"]["hex"] %>;
 }
 
 .hljs-number,
@@ -30,7 +30,7 @@
 .hljs-title,
 .hljs-section,
 .hljs-selector-attr {
-  color: #5151e6;
+  color: #<%- base["B0"]["hex"] %>;
 }
 
 .hljs-attribute,
@@ -38,19 +38,19 @@
 .hljs-symbol,
 .hljs-bullet,
 .hljs-selector-pseudo {
-  color: #dd672c;
+  color: #<%- base["D2"]["hex"] %>;
 }
 
 .hljs-variable,
 .hljs-template-variable {
-  color: #dd672c;
+  color: #<%- base["D2"]["hex"] %>;
 }
 
 .hljs {
   display: block;
   overflow-x: auto;
-  background: #fbf9f9;
-  color: #c3bbb7;
+  background: #<%- base["C7"]["hex"] %>;
+  color: #<%- base["C4"]["hex"] %>;
   padding: 0.5em;
 }
 
@@ -61,4 +61,3 @@
 .hljs-strong {
   font-weight: bold;
 }
-
