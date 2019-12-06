@@ -1,0 +1,64 @@
+/* Base2Tone-Suburb Light */
+/* by Bram de Haan, adapted from DuoTone themes by Simurai (http://simurai.com/projects/2016/01/01/duotone-themes) */
+/* https://github.com/atelierbram./Base2Tone-highlight.js/ */
+
+/* Base2Tone-Suburb Comment */
+.hljs-comment,
+.hljs-quote {
+  color: #c2b7bc;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-tag,
+.hljs-name,
+.hljs-regexp,
+.hljs-link,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class {
+  color: #d14781;
+}
+
+.hljs-number,
+.hljs-meta,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-title,
+.hljs-section,
+.hljs-selector-attr {
+  color: #5165e6;
+}
+
+.hljs-attribute,
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-selector-pseudo {
+  color: #f25a99;
+}
+
+.hljs-variable,
+.hljs-template-variable {
+  color: #f25a99;
+}
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  background: #fbf9fa;
+  color: #c2b7bc;
+  padding: 0.5em;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+

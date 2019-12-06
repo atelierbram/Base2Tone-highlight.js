@@ -29,6 +29,12 @@ overwrite_to_file()
   base16-builder --scheme "db/schemes/base2tone-drawbridge.yml" --template "db/templates/highlight.js/light-alt.ejs" > "docs/assets/css/styles/base2tone-drawbridge-light.css"
   base16-builder --scheme "db/schemes/base2tone-meadow.yml" --template "db/templates/highlight.js/dark.ejs" > "docs/assets/css/styles/base2tone-meadow-dark.css"
   base16-builder --scheme "db/schemes/base2tone-meadow.yml" --template "db/templates/highlight.js/light-alt.ejs" > "docs/assets/css/styles/base2tone-meadow-light.css"
+  base16-builder --scheme "db/schemes/base2tone-garden.yml" --template "db/templates/highlight.js/dark.ejs" > "docs/assets/css/styles/base2tone-garden-dark.css"
+  base16-builder --scheme "db/schemes/base2tone-garden.yml" --template "db/templates/highlight.js/light-alt.ejs" > "docs/assets/css/styles/base2tone-garden-light.css"
+  base16-builder --scheme "db/schemes/base2tone-lavender.yml" --template "db/templates/highlight.js/dark.ejs" > "docs/assets/css/styles/base2tone-lavender-dark.css"
+  base16-builder --scheme "db/schemes/base2tone-lavender.yml" --template "db/templates/highlight.js/light-alt.ejs" > "docs/assets/css/styles/base2tone-lavender-light.css"
+  base16-builder --scheme "db/schemes/base2tone-suburb.yml" --template "db/templates/highlight.js/dark.ejs" > "docs/assets/css/styles/base2tone-suburb-dark.css"
+  base16-builder --scheme "db/schemes/base2tone-suburb.yml" --template "db/templates/highlight.js/light-alt.ejs" > "docs/assets/css/styles/base2tone-suburb-light.css"
  }
 
 # execute it

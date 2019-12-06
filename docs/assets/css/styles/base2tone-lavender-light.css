@@ -1,0 +1,64 @@
+/* Base2Tone-Lavender Light */
+/* by Bram de Haan, adapted from DuoTone themes by Simurai (http://simurai.com/projects/2016/01/01/duotone-themes) */
+/* https://github.com/atelierbram./Base2Tone-highlight.js/ */
+
+/* Base2Tone-Lavender Comment */
+.hljs-comment,
+.hljs-quote {
+  color: #c4b6ce;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-tag,
+.hljs-name,
+.hljs-regexp,
+.hljs-link,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class {
+  color: #b042ff;
+}
+
+.hljs-number,
+.hljs-meta,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-title,
+.hljs-section,
+.hljs-selector-attr {
+  color: #7451e6;
+}
+
+.hljs-attribute,
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-selector-pseudo {
+  color: #c16bff;
+}
+
+.hljs-variable,
+.hljs-template-variable {
+  color: #c16bff;
+}
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  background: #faf8fc;
+  color: #c4b6ce;
+  padding: 0.5em;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+
