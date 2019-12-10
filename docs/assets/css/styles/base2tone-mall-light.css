@@ -1,0 +1,64 @@
+/* Base2Tone-Mall Light */
+/* by Bram de Haan, adapted from DuoTone themes by Simurai (http://simurai.com/projects/2016/01/01/duotone-themes) */
+/* https://github.com/atelierbram./Base2Tone-highlight.js/ */
+
+/* Base2Tone-Mall Comment */
+.hljs-comment,
+.hljs-quote {
+  color: #b5bdc4;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-tag,
+.hljs-name,
+.hljs-regexp,
+.hljs-link,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class {
+  color: #3692e2;
+}
+
+.hljs-number,
+.hljs-meta,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-title,
+.hljs-section,
+.hljs-selector-attr {
+  color: #855ee8;
+}
+
+.hljs-attribute,
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-selector-pseudo {
+  color: #5aabf2;
+}
+
+.hljs-variable,
+.hljs-template-variable {
+  color: #5aabf2;
+}
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  background: #f8fafc;
+  color: #b5bdc4;
+  padding: 0.5em;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+
